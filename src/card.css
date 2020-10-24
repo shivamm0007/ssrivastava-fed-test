@@ -1,0 +1,35 @@
+.card-layout {
+  height: 180px;
+  width: 400px;
+  margin: 15px;
+  background: white;
+  border-radius: 25px;
+  border: 1px solid black;
+}
+
+.card-parent-container {
+  display: flex;
+}
+.card-details {
+  position: relative;
+  left: 15%;
+}
+.card-pic {
+  border: 5px solid green;
+  left: 20%;
+  position: relative;
+  object-fit: contain;
+  border-radius: 50px;
+  top: 20%;
+}
+
+.card-details-name {
+  margin: 10px 0px 0px 0px;
+  font-size: 20px;
+  max-width: 250px;
+}
+.card-details-other {
+  font-size: 14px;
+  max-width: 300px;
+  margin: 0px;
+}
