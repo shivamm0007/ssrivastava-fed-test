@@ -8,6 +8,8 @@ Things To Try Out-
 2. Card layout contains - image of user, name, gender, location etc.
 3. Show more button loads more data from the API.
 
-clone this repo // git clone https://github.com/shivamm0007/ssrivastava-fed-test.git
-change directory to project // cd ssrivastava-fed-test-git
-npm start
+How to run this- 
+
+1. clone this repo // git clone https://github.com/shivamm0007/ssrivastava-fed-test.git
+2. change directory to project // cd ssrivastava-fed-test-git
+3. npm start
